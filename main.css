@@ -1,0 +1,29 @@
+span.GroupName{
+  FONT-SIZE: 20pt;
+  FONT-WEIGNT: bold;
+}
+span.FacultName{
+  FONT-SIZE: 12pt;
+  COLOR: #FF0000;
+}
+table.main td{
+  border-style: solid;
+  border-color: #000000;
+  border-width:1px;
+}
+tr.head{
+  background-color:#c0c0c0;
+  text-align:bold;
+}
+tr.row{
+  background-color:#f2f2f2;
+  text-align:center;
+}
+tr.row_man{
+  background-color:#ADD8E6;
+  text-align: center;
+}
+tr.row_woman{
+  background-color:#FFC0CB;
+  text-align:center;
+}
